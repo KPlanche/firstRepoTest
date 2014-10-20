@@ -10,6 +10,6 @@ will make a new paragraph
 
 # My First Repo
 
-This is my first Github repo as part of the [HackerYou] (http://www.hackeryou.com) Bootcamp!
+This is my first repo as part of the [HackerYou] (http://www.hackeryou.com) Bootcamp!
 
-Can't wait to learn more of this. 
+Can't wait to learn more of this!
